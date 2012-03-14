@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="alert">
+	<a class="close" data-dismiss="alert">×</a>
+	<strong>${1:Warning!}</strong> ${2:Best check yo self, you're not looking too good}.
+</div>
+]]></content>
+	<tabTrigger>tbalert</tabTrigger>
+	<description>Twitter Bootstrap default alert</description>
+	<scope>text.html</scope>
+</snippet>

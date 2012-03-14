@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+	<div class="span4">${1:Column 1}</div>
+	<div class="span4">${2:Column 2}</div>
+	<div class="span4">${3:Column 3}</div>
+</div>
+]]></content>
+	<tabTrigger>tbgrid:3</tabTrigger>
+	<description>Twitter Bootstrap basic three column grid</description>
+	<scope>text.html</scope>
+</snippet>

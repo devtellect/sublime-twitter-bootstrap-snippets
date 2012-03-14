@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="alert alert-error">
+	<a class="close" data-dismiss="alert">×</a>
+	<strong>${1:Error!}</strong> ${2:Change a few things up and try submitting again.}.
+</div>
+]]></content>
+	<tabTrigger>tbalert:e</tabTrigger>
+	<description>Twitter Bootstrap error alert</description>
+	<scope>text.html</scope>
+</snippet>

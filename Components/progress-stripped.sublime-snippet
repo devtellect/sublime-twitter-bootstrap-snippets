@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="progress progress-striped">
+	<div class="bar" style="width: 60%;"></div>
+</div>
+]]></content>
+	<tabTrigger>tbprogress:s</tabTrigger>
+	<description>Twitter Bootstrap stripped progress bar</description>
+	<scope>text.html</scope>
+</snippet>

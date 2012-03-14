@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group">
+	<a class="btn" href="#">${1:Button1}</a>
+	<a class="btn" href="#">${2:Button2}</a>
+	<a class="btn" href="#">${3:Button3}</a>
+</div>
+]]></content>
+	<tabTrigger>tbbuttons:g</tabTrigger>
+	<description>Twitter Bootstrap grouped buttons</description>
+	<scope>text.html</scope>
+</snippet>

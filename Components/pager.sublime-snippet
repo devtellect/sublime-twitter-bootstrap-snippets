@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<ul class="pager">
+	<li>
+		<a href="#">Previous</a>
+	</li>
+	<li>
+		<a href="#">Next</a>
+	</li>
+</ul>
+]]></content>
+	<tabTrigger>tbpager</tabTrigger>
+	<description>Twitter Bootstrap deafult pager</description>
+	<scope>text.html</scope>
+</snippet>

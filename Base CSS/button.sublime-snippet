@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="btn" type="submit">${1:Button}</button>
+]]></content>
+	<tabTrigger>tbbutton</tabTrigger>
+	<description>Twitter Bootstrap default button</description>
+	<scope>text.html</scope>
+</snippet>

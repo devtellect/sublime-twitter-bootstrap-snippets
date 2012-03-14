@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a href="#" rel="tooltip" title="first tooltip">hover over me</a>
+]]></content>
+	<tabTrigger>tbtooltip</tabTrigger>
+	<description>Twitter Bootstrap tooltips</description>
+	<scope>text.html</scope>
+</snippet>

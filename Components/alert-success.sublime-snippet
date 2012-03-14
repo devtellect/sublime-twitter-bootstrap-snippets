@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="alert alert-success">
+	<a class="close" data-dismiss="alert">×</a>
+	<strong>${1:Success!}</strong> ${2:You successfully read this important alert message.}
+</div>
+]]></content>
+	<tabTrigger>tbalert:s</tabTrigger>
+	<description>Twitter Bootstrap success alert</description>
+	<scope>text.html</scope>
+</snippet>

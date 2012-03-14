@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<ul class="nav nav-pills">
+	<li class="active">
+		<a href="#">${1:Home}</a>
+	</li>
+	<li><a href="#">${2:Profile}</a></li>
+	<li><a href="#">${3:Messages}</a></li>
+</ul>
+]]></content>
+	<tabTrigger>tbpills</tabTrigger>
+	<description>Twitter Bootstrap basic pills</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="btn btn-inverse" type="submit">${1:Button}</button>
+]]></content>
+	<tabTrigger>tbbutton:i</tabTrigger>
+	<description>Twitter Bootstrap inverse button</description>
+	<scope>text.html</scope>
+</snippet>

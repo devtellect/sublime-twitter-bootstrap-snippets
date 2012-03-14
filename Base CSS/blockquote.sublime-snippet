@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<blockquote>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis.</p>
+	<small>Someone famous in <cite title="">Body of work</cite></small>
+</blockquote>
+]]></content>
+	<tabTrigger>tbblockquote</tabTrigger>
+	<description>Twitter Bootstrap default blockquote</description>
+	<scope>text.html</scope>
+</snippet>

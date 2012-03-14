@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<ul class="breadcrumb">
+	<li>
+		<a href="#">${1:Home}</a> <span class="divider">/</span>
+	</li>
+	<li>
+		<a href="#">${2:Library}</a> <span class="divider">/</span>
+	</li>
+	<li class="active">
+		<a href="#">${3:Data}</a>
+	</li>
+</ul>
+]]></content>
+	<tabTrigger>tbbreadcrumb</tabTrigger>
+	<description>Twitter Bootstrap breadcrumb</description>
+	<scope>text.html</scope>
+</snippet>

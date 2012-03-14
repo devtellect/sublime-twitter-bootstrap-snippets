@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" class="btn btn-primary">${2:Link}</a>
+]]></content>
+	<tabTrigger>tblink:p</tabTrigger>
+	<description>Twitter Bootstrap primary link button</description>
+	<scope>text.html</scope>
+</snippet>

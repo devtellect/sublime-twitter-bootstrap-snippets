@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<ul class="nav nav-pills">
+	<li class="active"><a href="#">${1:Home}</a></li>
+	<li><a href="#">${2:Profile}</a></li>
+	<li class="dropdown">
+		<a class="dropdown-toggle" data-toggle="dropdown" href="#">${3:Dropdown} <b class="caret"></b></a>
+		<ul class="dropdown-menu">
+			<li><a href="#">${4:Action}</a></li>
+			<li><a href="#">${5:Another action}</a></li>
+			<li><a href="#">${6:Something else here}</a></li>
+			<li class="divider"></li>
+			<li><a href="#">${7:Separated link}</a></li>
+		</ul>
+	</li>
+</ul>
+]]></content>
+	<tabTrigger>tbpills:d</tabTrigger>
+	<description>Twitter Bootstrap pills with dropdowns</description>
+	<scope>text.html</scope>
+</snippet>

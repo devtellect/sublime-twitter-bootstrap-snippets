@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="label label-info">${1:Info}</span>
+]]></content>
+	<tabTrigger>tblabel:io</tabTrigger>
+	<description>Twitter Bootstrap info inline label</description>
+	<scope>text.html</scope>
+</snippet>

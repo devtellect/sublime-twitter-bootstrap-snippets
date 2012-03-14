@@ -1,0 +1,23 @@
+<snippet>
+	 <content><![CDATA[
+<div class="btn-toolbar">
+	<div class="btn-group">
+		<a class="btn" href="#">1</a>
+		<a class="btn" href="#">2</a>
+		<a class="btn" href="#">3</a>
+		<a class="btn" href="#">4</a>
+	</div>
+	<div class="btn-group">
+	  	<a class="btn" href="#">5</a>
+	  	<a class="btn" href="#">6</a>
+	  	<a class="btn" href="#">7</a>
+	</div>
+	<div class="btn-group">
+	  	<a class="btn" href="#">8</a>
+	</div>
+</div>
+]]></content>
+	 <tabTrigger>tbtoolbar</tabTrigger>
+	 <description>Twitter Bootstrap toolbar</description>
+	 <scope>text.html</scope>
+</snippet>

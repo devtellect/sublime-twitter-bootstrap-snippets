@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group">
+	<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">Action <span class="caret"></span></a>
+	<ul class="dropdown-menu">
+		<li><a href="#">${1:Action}</a></li>
+		<li><a href="#">${2:Another action}</a></li>
+		<li><a href="#">${3:Something else here}</a></li>
+		<li class="divider"></li>
+		<li><a href="#">${4:Separated link}</a></li>
+	</ul>
+</div>
+]]></content>
+	<tabTrigger>tbbuttons:d</tabTrigger>
+	<description>Twitter Bootstrap button dropdowns</description>
+	<scope>text.html</scope>
+</snippet>
