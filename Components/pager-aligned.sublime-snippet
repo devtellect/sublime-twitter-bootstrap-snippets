@@ -10,6 +10,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>tbpager:a</tabTrigger>
-	<description>Twitter Bootstrap pager with aligned links</description>
+	<description>Bootstrap pager with aligned links</description>
 	<scope>text.html</scope>
 </snippet>

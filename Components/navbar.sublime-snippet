@@ -51,6 +51,6 @@
 </div>
 ]]></content>
 	<tabTrigger>tbnavbar</tabTrigger>
-	<description>Twitter Bootstrap navigation bar</description>
+	<description>Bootstrap navigation bar</description>
 	<scope>text.html</scope>
 </snippet>

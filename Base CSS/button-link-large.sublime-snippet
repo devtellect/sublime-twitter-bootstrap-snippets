@@ -3,6 +3,6 @@
 <a href="${1:#}" class="btn btn-large">${2:Link}</a>
 ]]></content>
 	<tabTrigger>tblink:l</tabTrigger>
-	<description>Twitter Bootstrap large link button</description>
+	<description>Bootstrap large link button</description>
 	<scope>text.html</scope>
 </snippet>

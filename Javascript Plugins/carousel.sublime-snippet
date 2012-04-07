@@ -29,6 +29,6 @@
 </div>
 ]]></content>
 	<tabTrigger>tbcarousel</tabTrigger>
-	<description>Twitter Bootstrap carousel</description>
+	<description>Bootstrap carousel</description>
 	<scope>text.html</scope>
 </snippet>

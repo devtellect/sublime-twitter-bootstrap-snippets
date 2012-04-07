@@ -3,6 +3,6 @@
 <a href="${1:#}" class="btn btn-success">${2:Link}</a>
 ]]></content>
 	<tabTrigger>tblink:s</tabTrigger>
-	<description>Twitter Bootstrap success link button</description>
+	<description>Bootstrap success link button</description>
 	<scope>text.html</scope>
 </snippet>

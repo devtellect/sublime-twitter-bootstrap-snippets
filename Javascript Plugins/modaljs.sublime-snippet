@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>tbmodaljs</tabTrigger>
 	<scope>source.js,source.js.embedded.html</scope>
-	<description>Twitter Bootstrap modal events</description>
+	<description>Bootstrap modal events</description>
 </snippet>

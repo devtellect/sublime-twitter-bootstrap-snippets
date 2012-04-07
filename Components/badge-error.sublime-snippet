@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="badge badge-error">${1:6}</span>
+]]></content>
+	<tabTrigger>tbbadge:e</tabTrigger>
+	<description>Bootstrap error badge</description>
+	<scope>text.html</scope>
+</snippet>

@@ -18,6 +18,6 @@
 </div>
 ]]></content>
 	 <tabTrigger>tbtoolbar</tabTrigger>
-	 <description>Twitter Bootstrap toolbar</description>
+	 <description>Bootstrap toolbar</description>
 	 <scope>text.html</scope>
 </snippet>

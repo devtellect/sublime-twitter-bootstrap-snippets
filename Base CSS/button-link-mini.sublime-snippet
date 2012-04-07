@@ -3,6 +3,6 @@
 <a href="${1:#}" class="btn btn-mini">${2:Link}</a>
 ]]></content>
 	<tabTrigger>tblink:m</tabTrigger>
-	<description>Twitter Bootstrap mini link button</description>
+	<description>Bootstrap mini link button</description>
 	<scope>text.html</scope>
 </snippet>

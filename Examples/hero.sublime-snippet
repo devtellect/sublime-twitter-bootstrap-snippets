@@ -102,6 +102,6 @@
 </html>
 ]]></content>
 	<tabTrigger>tbhero</tabTrigger>
-	<description>Twitter Bootstrap hero example</description>
+	<description>Bootstrap hero example</description>
 	<scope>text.html</scope>
 </snippet>

@@ -9,6 +9,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>tbtabs</tabTrigger>
-	<description>Twitter Bootstrap basic tabs</description>
+	<description>Bootstrap basic tabs</description>
 	<scope>text.html</scope>
 </snippet>

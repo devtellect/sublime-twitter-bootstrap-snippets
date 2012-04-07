@@ -3,6 +3,6 @@
 <button class="btn btn-success" type="submit">${1:Button}</button>
 ]]></content>
 	<tabTrigger>tbbutton:s</tabTrigger>
-	<description>Twitter Bootstrap success button</description>
+	<description>Bootstrap success button</description>
 	<scope>text.html</scope>
 </snippet>

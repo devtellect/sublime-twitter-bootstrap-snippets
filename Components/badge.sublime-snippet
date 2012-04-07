@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="badge">${1:1}</span>
+]]></content>
+	<tabTrigger>tbbadge</tabTrigger>
+	<description>Bootstrap default badge</description>
+	<scope>text.html</scope>
+</snippet>

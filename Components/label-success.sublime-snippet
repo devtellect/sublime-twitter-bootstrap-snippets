@@ -3,6 +3,6 @@
 <span class="label label-success">${1:Success}</span>
 ]]></content>
 	<tabTrigger>tblabel:s</tabTrigger>
-	<description>Twitter Bootstrap success inline label</description>
+	<description>Bootstrap success inline label</description>
 	<scope>text.html</scope>
 </snippet>

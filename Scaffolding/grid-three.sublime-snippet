@@ -7,6 +7,6 @@
 </div>
 ]]></content>
 	<tabTrigger>tbgrid:3</tabTrigger>
-	<description>Twitter Bootstrap basic three column grid</description>
+	<description>Bootstrap basic three column grid</description>
 	<scope>text.html</scope>
 </snippet>

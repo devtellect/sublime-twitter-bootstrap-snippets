@@ -40,6 +40,6 @@
  </div>
 ]]></content>
 	<tabTrigger>tbaccordian</tabTrigger>
-	<description>Twitter Bootstrap accordian</description>
+	<description>Bootstrap accordian</description>
 	<scope>text.html</scope>
 </snippet>

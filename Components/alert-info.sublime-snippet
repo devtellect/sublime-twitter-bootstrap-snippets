@@ -6,6 +6,6 @@
 </div>
 ]]></content>
 	<tabTrigger>tbalert:i</tabTrigger>
-	<description>Twitter Bootstrap information alert</description>
+	<description>Bootstrap information alert</description>
 	<scope>text.html</scope>
 </snippet>

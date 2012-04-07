@@ -7,6 +7,6 @@
 </div>
 ]]></content>
 	<tabTrigger>tbbuttons:g</tabTrigger>
-	<description>Twitter Bootstrap grouped buttons</description>
+	<description>Bootstrap grouped buttons</description>
 	<scope>text.html</scope>
 </snippet>

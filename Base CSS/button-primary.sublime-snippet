@@ -3,6 +3,6 @@
 <button class="btn btn-primary" type="submit">${1:Button}</button>
 ]]></content>
 	<tabTrigger>tbbutton:p</tabTrigger>
-	<description>Twitter Bootstrap primary button</description>
+	<description>Bootstrap primary button</description>
 	<scope>text.html</scope>
 </snippet>

@@ -6,6 +6,6 @@
 </blockquote>
 ]]></content>
 	<tabTrigger>tbblockquote</tabTrigger>
-	<description>Twitter Bootstrap default blockquote</description>
+	<description>Bootstrap default blockquote</description>
 	<scope>text.html</scope>
 </snippet>

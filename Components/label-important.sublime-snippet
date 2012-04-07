@@ -3,6 +3,6 @@
 <span class="label label-important">${1:Important}</span>
 ]]></content>
 	<tabTrigger>tblabel:it</tabTrigger>
-	<description>Twitter Bootstrap important inline label</description>
+	<description>Bootstrap important inline label</description>
 	<scope>text.html</scope>
 </snippet>

@@ -3,6 +3,6 @@
 <button class="btn btn-warning" type="submit">${1:Button}</button>
 ]]></content>
 	<tabTrigger>tbbutton:w</tabTrigger>
-	<description>Twitter Bootstrap warning button</description>
+	<description>Bootstrap warning button</description>
 	<scope>text.html</scope>
 </snippet>
