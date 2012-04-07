@@ -101,6 +101,6 @@
 </body>
 ]]></content>
 	<tabTrigger>tbstarter</tabTrigger>
-	<description>Twitter Bootstrap starter</description>
+	<description>Bootstrap starter</description>
 	<scope>text.html</scope>
 </snippet>

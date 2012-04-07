@@ -10,6 +10,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>tbpager</tabTrigger>
-	<description>Twitter Bootstrap deafult pager</description>
+	<description>Bootstrap deafult pager</description>
 	<scope>text.html</scope>
 </snippet>

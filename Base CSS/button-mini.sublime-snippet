@@ -3,6 +3,6 @@
 <button class="btn btn-mini" type="submit">${1:Button}</button>
 ]]></content>
 	<tabTrigger>tbbutton:mini</tabTrigger>
-	<description>Twitter Bootstrap mini button</description>
+	<description>Bootstrap mini button</description>
 	<scope>text.html</scope>
 </snippet>

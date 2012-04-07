@@ -3,6 +3,6 @@
 <a href="${1:#}" class="btn">${2:Link}</a>
 ]]></content>
 	<tabTrigger>tbbutton</tabTrigger>
-	<description>Twitter Bootstrap default link button</description>
+	<description>Bootstrap default link button</description>
 	<scope>text.html</scope>
 </snippet>

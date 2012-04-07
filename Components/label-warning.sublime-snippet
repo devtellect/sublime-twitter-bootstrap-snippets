@@ -3,6 +3,6 @@
 <span class="label label-warning">${1:Warning}</span>
 ]]></content>
 	<tabTrigger>tblabel:w</tabTrigger>
-	<description>Twitter Bootstrap warning inline label</description>
+	<description>Bootstrap warning inline label</description>
 	<scope>text.html</scope>
 </snippet>

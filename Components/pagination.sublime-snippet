@@ -14,6 +14,6 @@
 </div>
 ]]></content>
 	<tabTrigger>tbpagination</tabTrigger>
-	<description>Twitter Bootstrap pagination</description>
+	<description>Bootstrap pagination</description>
 	<scope>text.html</scope>
 </snippet>

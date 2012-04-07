@@ -16,6 +16,6 @@
 </div>
 ]]></content>
 	<tabTrigger>tbtabbable:b</tabTrigger>
-	<description>Twitter Bootstrap tabbable navigation tabs on the bottom</description>
+	<description>Bootstrap tabbable navigation tabs on the bottom</description>
 	<scope>text.html</scope>
 </snippet>

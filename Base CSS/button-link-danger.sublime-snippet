@@ -3,6 +3,6 @@
 <a href="${1:#}" class="btn btn-danger">${2:Link}</a>
 ]]></content>
 	<tabTrigger>tblink:d</tabTrigger>
-	<description>Twitter Bootstrap danger link button</description>
+	<description>Bootstrap danger link button</description>
 	<scope>text.html</scope>
 </snippet>

@@ -16,6 +16,6 @@
 </div>
 ]]></content>
 	<tabTrigger>tbmodal</tabTrigger>
-	<description>Twitter Bootstrap modal</description>
+	<description>Bootstrap modal</description>
 	<scope>text.html</scope>
 </snippet>

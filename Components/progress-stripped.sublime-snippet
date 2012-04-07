@@ -5,6 +5,6 @@
 </div>
 ]]></content>
 	<tabTrigger>tbprogress:s</tabTrigger>
-	<description>Twitter Bootstrap stripped progress bar</description>
+	<description>Bootstrap stripped progress bar</description>
 	<scope>text.html</scope>
 </snippet>

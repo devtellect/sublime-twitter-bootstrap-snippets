@@ -141,6 +141,6 @@
 </html>
 ]]></content>
 	<tabTrigger>tbfluid</tabTrigger>
-	<description>Twitter Bootstrap fluid layout</description>
+	<description>Bootstrap fluid layout</description>
 	<scope>text.html</scope>
 </snippet>

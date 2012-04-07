@@ -13,6 +13,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>tbbreadcrumb</tabTrigger>
-	<description>Twitter Bootstrap breadcrumb</description>
+	<description>Bootstrap breadcrumb</description>
 	<scope>text.html</scope>
 </snippet>

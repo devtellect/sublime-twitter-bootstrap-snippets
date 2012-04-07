@@ -63,6 +63,6 @@
 </form>
 ]]></content>
 	<tabTrigger>tbform:h</tabTrigger>
-	<description>Twitter Bootstrap horizontal form</description>
+	<description>Bootstrap horizontal form</description>
 	<scope>text.html</scope>
 </snippet>

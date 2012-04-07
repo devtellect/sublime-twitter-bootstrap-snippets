@@ -15,6 +15,6 @@
 <script src="https://raw.github.com/twitter/bootstrap/master/js/bootstrap-typeahead.js"></script>
 ]]></content>
 	<tabTrigger>tbscripts</tabTrigger>
-	<description>Twitter Bootstrap scripts reference</description>
+	<description>Bootstrap scripts reference</description>
 	<scope>text.html</scope>
 </snippet>

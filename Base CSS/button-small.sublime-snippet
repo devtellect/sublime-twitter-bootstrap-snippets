@@ -3,6 +3,6 @@
 <button class="btn btn-small" type="submit">${1:Button}</button>
 ]]></content>
 	<tabTrigger>tbbutton:small</tabTrigger>
-	<description>Twitter Bootstrap small button</description>
+	<description>Bootstrap small button</description>
 	<scope>text.html</scope>
 </snippet>

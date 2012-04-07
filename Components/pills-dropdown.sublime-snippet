@@ -16,6 +16,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>tbpills:d</tabTrigger>
-	<description>Twitter Bootstrap pills with dropdowns</description>
+	<description>Bootstrap pills with dropdowns</description>
 	<scope>text.html</scope>
 </snippet>

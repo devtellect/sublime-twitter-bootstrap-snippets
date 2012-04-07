@@ -16,6 +16,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>tbtabs:d</tabTrigger>
-	<description>Twitter Bootstrap tabs with dropdowns</description>
+	<description>Bootstrap tabs with dropdowns</description>
 	<scope>text.html</scope>
 </snippet>
