@@ -39,7 +39,7 @@
  	</div>
  </div>
 ]]></content>
-	<tabTrigger>tbaccordian</tabTrigger>
-	<description>Bootstrap accordian</description>
+	<tabTrigger>tbaccordion</tabTrigger>
+	<description>Bootstrap accordion</description>
 	<scope>text.html</scope>
 </snippet>
