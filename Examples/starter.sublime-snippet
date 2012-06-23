@@ -99,6 +99,7 @@
 	<script src="https://raw.github.com/twitter/bootstrap/master/js/bootstrap-carousel.js"></script>
 	<script src="https://raw.github.com/twitter/bootstrap/master/js/bootstrap-typeahead.js"></script>
 </body>
+</html>
 ]]></content>
 	<tabTrigger>tbstarter</tabTrigger>
 	<description>Bootstrap starter</description>
