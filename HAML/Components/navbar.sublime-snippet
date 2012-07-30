@@ -1,0 +1,65 @@
+<snippet>
+	<content><![CDATA[
+.navbar
+  .navbar-inner
+    .container{:style => "width: auto;"}
+      %a.btn.btn-navbar{"data-target" => ".nav-collapse", "data-toggle" => "collapse"}
+        %span.icon-bar
+        %span.icon-bar
+        %span.icon-bar
+      %a.brand{:href => "#"} Project name
+      .nav-collapse
+        %ul.nav
+          %li.active
+            %a{:href => "#"} Home
+          %li
+            %a{:href => "#"} Link
+          %li
+            %a{:href => "#"} Link
+          %li
+            %a{:href => "#"} Link
+          %li.dropdown
+            %a.dropdown-toggle{"data-toggle" => "dropdown", :href => "#"}
+              Dropdown
+              %b.caret
+            %ul.dropdown-menu
+              %li
+                %a{:href => "#"} Action
+              %li
+                %a{:href => "#"} Another action
+              %li
+                %a{:href => "#"} Something else here
+              %li.divider
+              %li.nav-header Nav header
+              %li
+                %a{:href => "#"} Separated link
+              %li
+                %a{:href => "#"} One more separated link
+        %form.navbar-search.pull-left{:action => ""}
+          %input.search-query.span2{:placeholder => "Search", :type => "text"}
+        %ul.nav.pull-right
+          %li
+            %a{:href => "#"} Link
+          %li.divider-vertical
+          %li.dropdown
+            %a.dropdown-toggle{"data-toggle" => "dropdown", :href => "#"}
+              Dropdown
+              %b.caret
+            %ul.dropdown-menu
+              %li
+                %a{:href => "#"} Action
+              %li
+                %a{:href => "#"} Another action
+              %li
+                %a{:href => "#"} Something else here
+              %li.divider
+              %li
+                %a{:href => "#"} Separated link
+      / /.nav-collapse
+  / /navbar-inner
+
+]]></content>
+	<tabTrigger>tbnavbar</tabTrigger>
+	<description>Bootstrap navigation bar</description>
+	<scope>text.haml</scope>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+%a.btn{"data-toggle" => "modal", :href => "#myModal"} Launch Modal
+#myModal.modal
+  .modal-header
+    %a.close{"data-dismiss" => "modal"} ×
+    %h3 Modal header
+  .modal-body
+    %p One fine body…
+  .modal-footer
+    %a.btn.btn-primary{:href => "#"} Save changes
+    %a.btn{:href => "#"} Close
+
+]]></content>
+	<tabTrigger>tbmodal</tabTrigger>
+	<description>Bootstrap modal</description>
+	<scope>text.haml</scope>
+</snippet>

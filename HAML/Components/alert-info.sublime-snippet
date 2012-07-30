@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+.alert.alert-info
+  %a.close{"data-dismiss" => "alert"} ×
+  %strong ${1:Information!}
+  ${2:This alert needs your attention, but it's not super important.}
+]]></content>
+	<tabTrigger>tbalert:i</tabTrigger>
+	<description>Bootstrap information alert</description>
+	<scope>text.haml</scope>
+</snippet>

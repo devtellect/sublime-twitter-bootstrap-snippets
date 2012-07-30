@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%span.badge.badge-warning ${1:4}
+]]></content>
+	<tabTrigger>tbbadge:w</tabTrigger>
+	<description>Bootstrap warning badge</description>
+	<scope>text.haml</scope>
+</snippet>

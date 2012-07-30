@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%span.label.label-warning ${1:Warning}
+]]></content>
+	<tabTrigger>tblabel:w</tabTrigger>
+	<description>Bootstrap warning inline label</description>
+	<scope>text.haml</scope>
+</snippet>

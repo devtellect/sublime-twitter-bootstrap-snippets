@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$(${1:'#modal'}).on(${2:'show|shown|hide|hidden'}, function () \{
+	${3}
+\});
+]]></content>
+	<tabTrigger>tbmodaljs</tabTrigger>
+	<scope>source.js,source.js.embedded.html</scope>
+	<description>Bootstrap modal events</description>
+</snippet>

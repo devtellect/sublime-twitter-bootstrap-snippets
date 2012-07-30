@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+%script{:src => "http://code.jquery.com/jquery.min.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-transition.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-alert.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-modal.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-dropdown.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-scrollspy.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-tab.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-tooltip.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-popover.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-button.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-collapse.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-carousel.js"}
+%script{:src => "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-typeahead.js"}
+
+]]></content>
+	<tabTrigger>tbscripts</tabTrigger>
+	<description>Bootstrap scripts reference</description>
+	<scope>text.haml</scope>
+</snippet>

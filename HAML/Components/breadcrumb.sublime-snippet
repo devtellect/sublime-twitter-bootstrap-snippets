@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+%ul.breadcrumb
+  %li
+    %a{:href => "#"} ${1:Home}
+    %span.divider /
+  %li
+    %a{:href => "#"} ${2:Library}
+    %span.divider /
+  %li.active
+    %a{:href => "#"} ${3:Data}
+]]></content>
+	<tabTrigger>tbbreadcrumb</tabTrigger>
+	<description>Bootstrap breadcrumb</description>
+	<scope>text.haml</scope>
+</snippet>

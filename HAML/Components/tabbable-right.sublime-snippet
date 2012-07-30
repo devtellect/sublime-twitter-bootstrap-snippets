@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+.tabbable.tabs-right
+  %ul.nav.nav-tabs
+    %li.active
+      %a{"data-toggle" => "tab", :href => "#1"} Section 1
+    %li
+      %a{"data-toggle" => "tab", :href => "#2"} Section 2
+  .tab-content
+    #1.tab-pane.active
+      %p I'm in Section 1.
+    #2.tab-pane
+      %p Howdy, I'm in Section 2.
+
+]]></content>
+	<tabTrigger>tbtabbable:r</tabTrigger>
+	<description>Bootstrap tabbable navigation tabs on the right</description>
+	<scope>text.haml</scope>
+</snippet>

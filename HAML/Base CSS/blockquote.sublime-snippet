@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+%blockquote
+	%p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis.
+	%small
+		Someone famous in
+		%cite{:title => ""} Body of work
+]]></content>
+	<tabTrigger>tbblockquote</tabTrigger>
+	<description>Bootstrap default blockquote</description>
+	<scope>text.haml</scope>
+</snippet>

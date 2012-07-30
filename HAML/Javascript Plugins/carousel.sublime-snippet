@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+#myCarousel.carousel.slide
+  .carousel-inner
+    .item
+      %img{:alt => "", :src => "http://twitter.github.com/bootstrap/assets/img/bootstrap-mdo-sfmoma-01.jpg"}
+        .carousel-caption
+          %h4 First Thumbnail label
+          %p Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+    .item
+      %img{:alt => "", :src => "http://twitter.github.com/bootstrap/assets/img/bootstrap-mdo-sfmoma-02.jpg"}
+        .carousel-caption
+          %h4 Second Thumbnail label
+          %p Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+    .item.active
+      %img{:alt => "", :src => "http://twitter.github.com/bootstrap/assets/img/bootstrap-mdo-sfmoma-03.jpg"}
+        .carousel-caption
+          %h4 Third Thumbnail label
+          %p Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+  %a.left.carousel-control{"data-slide" => "prev", :href => "#myCarousel"} ‹
+  %a.right.carousel-control{"data-slide" => "next", :href => "#myCarousel"} ›
+
+]]></content>
+	<tabTrigger>tbcarousel</tabTrigger>
+	<description>Bootstrap carousel</description>
+	<scope>text.haml</scope>
+</snippet>

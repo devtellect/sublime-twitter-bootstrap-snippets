@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%span.badge ${1:1}
+]]></content>
+	<tabTrigger>tbbadge</tabTrigger>
+	<description>Bootstrap default badge</description>
+	<scope>text.haml</scope>
+</snippet>

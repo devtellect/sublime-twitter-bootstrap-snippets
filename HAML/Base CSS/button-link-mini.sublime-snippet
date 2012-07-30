@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%a{:href => "${1:#}", :class => "btn btn-mini"} ${2:Link}
+]]></content>
+	<tabTrigger>tblink:m</tabTrigger>
+	<description>Bootstrap mini link button</description>
+	<scope>text.haml</scope>
+</snippet>

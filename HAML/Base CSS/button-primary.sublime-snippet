@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%button{:class => "btn btn-primary", :type => "submit"} ${1:Button}
+]]></content>
+	<tabTrigger>tbbutton:p</tabTrigger>
+	<description>Bootstrap primary button</description>
+	<scope>text.haml</scope>
+</snippet>

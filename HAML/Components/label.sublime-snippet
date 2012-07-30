@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%span.label ${1:Default}
+]]></content>
+	<tabTrigger>tblabel</tabTrigger>
+	<description>Bootstrap basic inline label</description>
+	<scope>text.haml</scope>
+</snippet>

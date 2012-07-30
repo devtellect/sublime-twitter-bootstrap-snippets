@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+%ul.pager
+  %li.previous
+    %a{:href => "#"} &larr; Older
+  %li.next
+    %a{:href => "#"} Newer &rarr;
+]]></content>
+	<tabTrigger>tbpager:a</tabTrigger>
+	<description>Bootstrap pager with aligned links</description>
+	<scope>text.haml</scope>
+</snippet>

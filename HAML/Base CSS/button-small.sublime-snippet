@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%button{:class => "btn btn-small", :type => "submit"} ${1:Button}
+]]></content>
+	<tabTrigger>tbbutton:small</tabTrigger>
+	<description>Bootstrap small button</description>
+	<scope>text.haml</scope>
+</snippet>
