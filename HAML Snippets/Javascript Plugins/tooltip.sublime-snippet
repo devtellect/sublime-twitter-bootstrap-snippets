@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+%a{:href => "#", :rel => "tooltip", :title => "first tooltip"} hover over me
+
+]]></content>
+	<tabTrigger>tbtooltip</tabTrigger>
+	<description>Bootstrap tooltips</description>
+	<scope>text.haml</scope>
+</snippet>

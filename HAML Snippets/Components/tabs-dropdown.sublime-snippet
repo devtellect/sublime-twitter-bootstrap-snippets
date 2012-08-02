@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+%ul.nav.nav-tabs
+  %li.active
+    %a{:href => "#"} ${1:Home}
+  %li
+    %a{:href => "#"} ${2:Profile}
+  %li.dropdown
+    %a.dropdown-toggle{"data-toggle" => "dropdown", :href => "#"}
+      ${3:Dropdown}
+      %b.caret
+    %ul.dropdown-menu
+      %li
+        %a{:href => "#"} ${4:Action}
+      %li
+        %a{:href => "#"} ${5:Another action}
+      %li
+        %a{:href => "#"} ${6:Something else here}
+      %li.divider
+      %li
+        %a{:href => "#"} ${7:Separated link}
+
+]]></content>
+	<tabTrigger>tbtabs:d</tabTrigger>
+	<description>Bootstrap tabs with dropdowns</description>
+	<scope>text.haml</scope>
+</snippet>

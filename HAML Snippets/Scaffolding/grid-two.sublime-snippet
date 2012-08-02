@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+.row
+  .span6 ${1:Column 1}
+  .span6 ${2:Column 2}
+]]></content>
+	<tabTrigger>tbgrid:2</tabTrigger>
+	<description>Bootstrap basic two column grid</description>
+	<scope>text.haml</scope>
+</snippet>

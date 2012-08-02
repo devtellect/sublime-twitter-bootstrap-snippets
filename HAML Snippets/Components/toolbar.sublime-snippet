@@ -1,0 +1,20 @@
+<snippet>
+	 <content><![CDATA[
+.btn-toolbar
+  .btn-group
+    %a.btn{:href => "#"} 1
+    %a.btn{:href => "#"} 2
+    %a.btn{:href => "#"} 3
+    %a.btn{:href => "#"} 4
+  .btn-group
+    %a.btn{:href => "#"} 5
+    %a.btn{:href => "#"} 6
+    %a.btn{:href => "#"} 7
+  .btn-group
+    %a.btn{:href => "#"} 8
+
+]]></content>
+	 <tabTrigger>tbtoolbar</tabTrigger>
+	 <description>Bootstrap toolbar</description>
+	 <scope>text.haml</scope>
+</snippet>

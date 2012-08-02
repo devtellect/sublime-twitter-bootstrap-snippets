@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+.alert.alert-error
+  %a.close{"data-dismiss" => "alert"} ×
+  %strong ${1:Error!}
+  ${2:Change a few things up and try submitting again.}.
+]]></content>
+	<tabTrigger>tbalert:e</tabTrigger>
+	<description>Bootstrap error alert</description>
+	<scope>text.haml</scope>
+</snippet>

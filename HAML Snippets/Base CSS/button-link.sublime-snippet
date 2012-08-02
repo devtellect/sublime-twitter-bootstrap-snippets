@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%a{:href => "${1:#}", :class => "btn"} ${2:Link}
+]]></content>
+	<tabTrigger>tbbutton</tabTrigger>
+	<description>Bootstrap default link button</description>
+	<scope>text.haml</scope>
+</snippet>

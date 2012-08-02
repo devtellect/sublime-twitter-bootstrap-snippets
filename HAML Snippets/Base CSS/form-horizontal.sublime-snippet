@@ -1,0 +1,50 @@
+<snippet>
+	<content><![CDATA[
+%form.form-horizontal
+  %fieldset
+    %legend Controls Bootstrap supports
+    .control-group
+      %label.control-label{:for => "input01"} Text input
+      .controls
+        %input#input01.input-xlarge{:type => "text"}
+          %p.help-block In addition to freeform text, any HTML5 text-based input appears like so.
+    .control-group
+      %label.control-label{:for => "optionsCheckbox"} Checkbox
+      .controls
+        %label.checkbox
+          %input#optionsCheckbox{:type => "checkbox", :value => "option1"}
+            Option one is this and that—be sure to include why it's great
+    .control-group
+      %label.control-label{:for => "select01"} Select list
+      .controls
+        %select#select01
+          %option something
+          %option 2
+          %option 3
+          %option 4
+          %option 5
+    .control-group
+      %label.control-label{:for => "multiSelect"} Multicon-select
+      .controls
+        %select#multiSelect{:multiple => "multiple"}
+          %option 1
+          %option 2
+          %option 3
+          %option 4
+          %option 5
+    .control-group
+      %label.control-label{:for => "fileInput"} File input
+      .controls
+        %input#fileInput.input-file{:type => "file"}
+    .control-group
+      %label.control-label{:for => "textarea"} Textarea
+      .controls
+        %textarea#textarea.input-xlarge{:rows => "3"}
+    .form-actions
+      %button.btn.btn-primary{:type => "submit"} Save changes
+      %button.btn Cancel
+]]></content>
+	<tabTrigger>tbform:h</tabTrigger>
+	<description>Bootstrap horizontal form</description>
+	<scope>text.haml</scope>
+</snippet>

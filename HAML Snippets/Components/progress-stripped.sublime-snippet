@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+.progress.progress-striped
+  .bar{:style => "width: 60%;"}
+
+]]></content>
+	<tabTrigger>tbprogress:s</tabTrigger>
+	<description>Bootstrap stripped progress bar</description>
+	<scope>text.haml</scope>
+</snippet>

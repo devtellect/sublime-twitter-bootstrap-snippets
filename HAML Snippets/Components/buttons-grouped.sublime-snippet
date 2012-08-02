@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+.btn-group
+  %a.btn{:href => "#"} ${1:Button1}
+  %a.btn{:href => "#"} ${2:Button2}
+  %a.btn{:href => "#"} ${3:Button3}
+]]></content>
+	<tabTrigger>tbbuttons:g</tabTrigger>
+	<description>Bootstrap grouped buttons</description>
+	<scope>text.haml</scope>
+</snippet>

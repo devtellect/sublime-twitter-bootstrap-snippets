@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+.alert.alert-success
+  %a.close{"data-dismiss" => "alert"} ×
+  %strong ${1:Success!}
+  ${2:You successfully read this important alert message.}
+]]></content>
+	<tabTrigger>tbalert:s</tabTrigger>
+	<description>Bootstrap success alert</description>
+	<scope>text.haml</scope>
+</snippet>
