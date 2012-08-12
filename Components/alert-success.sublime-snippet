@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <div class="alert alert-success">
-	<a class="close" data-dismiss="alert">×</a>
+	<a class="close" data-dismiss="alert">&times;</a>
 	<strong>${1:Success!}</strong> ${2:You successfully read this important alert message.}
 </div>
 ]]></content>

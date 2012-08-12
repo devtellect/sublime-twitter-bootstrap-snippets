@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <div class="alert alert-error">
-	<a class="close" data-dismiss="alert">×</a>
+	<a class="close" data-dismiss="alert">&times;</a>
 	<strong>${1:Error!}</strong> ${2:Change a few things up and try submitting again.}.
 </div>
 ]]></content>
