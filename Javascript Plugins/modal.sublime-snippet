@@ -3,7 +3,7 @@
 <a class="btn" data-toggle="modal" href="#myModal">Launch Modal</a>
 <div class="modal" id="myModal">
 	<div class="modal-header">
-		<a class="close" data-dismiss="modal">×</a>
+		<a class="close" data-dismiss="modal">&times;</a>
 		<h3>Modal header</h3>
 	</div>
 	<div class="modal-body">
