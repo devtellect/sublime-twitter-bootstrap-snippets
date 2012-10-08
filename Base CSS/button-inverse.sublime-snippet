@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <button class="btn btn-inverse" type="submit">${1:Button}</button>
 ]]></content>
-	<tabTrigger>tbbutton:i</tabTrigger>
+	<tabTrigger>tbbutton:inv</tabTrigger>
 	<description>Bootstrap inverse button</description>
 	<scope>text.html</scope>
 </snippet>
