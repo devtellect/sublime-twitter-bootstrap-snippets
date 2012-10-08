@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <a href="${1:#}" class="btn btn-inverse">${2:Link}</a>
 ]]></content>
-	<tabTrigger>tblink:i</tabTrigger>
+	<tabTrigger>tblink:inv</tabTrigger>
 	<description>Bootstrap inverse link button</description>
 	<scope>text.html</scope>
 </snippet>
