@@ -1,6 +1,11 @@
 <snippet>
 	<content><![CDATA[
 <div id="myCarousel" class="carousel slide">
+	<ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
 	<div class="carousel-inner">
 		<div class="item">
 			<img src="http://twitter.github.com/bootstrap/assets/img/bootstrap-mdo-sfmoma-01.jpg" alt="">
@@ -24,8 +29,8 @@
 			</div>
 		</div>
 	</div>
-	<a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
-	<a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
+	<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
 </div>
 ]]></content>
 	<tabTrigger>tbcarousel</tabTrigger>

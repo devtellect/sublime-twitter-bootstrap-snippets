@@ -7,6 +7,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>tbtabs:s</tabTrigger>
-	<description>Bootstrap basic tabs</description>
+	<description>Bootstrap basic tabs with stacked</description>
 	<scope>text.html</scope>
 </snippet>

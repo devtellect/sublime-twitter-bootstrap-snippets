@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<a href="#" rel="tooltip" title="first tooltip">hover over me</a>
+<a href="#" data-toggle="tooltip" data-placement="top" title="Default tooltip">tooltip text</a>
 ]]></content>
 	<tabTrigger>tbtooltip</tabTrigger>
 	<description>Bootstrap tooltips</description>
